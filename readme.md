@@ -1,1 +1,0 @@
-[![BOJ Tier](https://img.shields.io/badge/dynamic/json?label=BOJ%20Tier&query=%24.tierName&url=https%3A%2F%2Fsolved.ac%2Fapi%2Fv3%2Fuser%2Fshow%3Fhandle%3Dnoa_fotmdhdn)](https://www.acmicpc.net/user/noa_fotmdhdn)
