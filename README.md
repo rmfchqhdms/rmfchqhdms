@@ -8,5 +8,4 @@
 
 
 ## ▶️ YouTube  
-[![YouTube channel]([https://img.shields.io/youtube/channel-subscriptions/UC_bBeMOyS2l2wM2Lnr_W8fg?style=flat&logo=youtube&logoColor=white](https://i.ytimg.com/vi/XSGHGlW9dRg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG2CYAC0AWKAgwIABABGFwgZSg3MA8=&rs=AOn4CLDzDPftHJP33fbGySh-y3isvy4xAw))](https://www.youtube.com/@noa-g2t2b/videos)  
-<a href="https://www.youtube.com/watch?v=VIDEO_ID"><img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="YouTube Preview" width="600"/></a>  
+[![YouTube channel](https://i.ytimg.com/vi/XSGHGlW9dRg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG2CYAC0AWKAgwIABABGFwgZSg3MA8=&rs=AOn4CLDzDPftHJP33fbGySh-y3isvy4xAw)](https://www.youtube.com/@noa-g2t2b/videos)
