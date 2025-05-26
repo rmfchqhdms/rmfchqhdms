@@ -8,4 +8,4 @@
 
 
 ## ▶️ YouTube  
-[![YouTube channel](https://i.ytimg.com/vi/XSGHGlW9dRg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG2CYAC0AWKAgwIABABGFwgZSg3MA8=&rs=AOn4CLDzDPftHJP33fbGySh-y3isvy4xAw)](https://www.youtube.com/@noa-g2t2b/videos)
+[![YouTube channel](https://github.com/user-attachments/assets/56a696c9-d763-400e-a0da-9635cc669f21)](https://www.youtube.com/@noa-g2t2b/videos)
