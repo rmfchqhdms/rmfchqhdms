@@ -3,8 +3,8 @@
 <br>
 <br>
 # Baekjoon Online Judge
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noa_fotmdhdn)](https://solved.ac/noa_fotmdhdn)
-[![noa_fothmdhdn profile](http://mazandi.herokuapp.com/api?handle=noa_fotmdhdn&theme=warm)](https://www.acmicpc.net/user/noa_fotmdhdn)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aitsuki_nakuru_fan)](https://solved.ac/aitsuki_nakuru_fan)
+[![noa_fothmdhdn profile](http://mazandi.herokuapp.com/api?handle=aitsuki_nakuru_fan&theme=warm)](https://www.acmicpc.net/user/aitsuki_nakuru_fan)
 
 
 ## ▶️ My YouTube  
