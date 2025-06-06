@@ -7,7 +7,6 @@
 [![aitsuki_nakuru_fan profile](http://mazandi.herokuapp.com/api?handle=aitsuki_nakuru_fan&theme=warm)](https://www.acmicpc.net/user/aitsuki_nakuru_fan)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rmfchqhdms)](https://codeforces.com/profile/rmfchqhdms)
-![Codeforces Stats](https://raw.githubusercontent.com/mazassumnida/mazassumnida/master/codeforces.svg)
 
 
 
