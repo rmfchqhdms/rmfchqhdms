@@ -7,7 +7,7 @@
 [![aitsuki_nakuru_fan profile](http://mazandi.herokuapp.com/api?handle=aitsuki_nakuru_fan&theme=warm)](https://www.acmicpc.net/user/aitsuki_nakuru_fan)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rmfchqhdms)](https://codeforces.com/profile/rmfchqhdms)
-[![Dacon Tier](https://img.shields.io/badge/Dacon%20Tier-Beginner-brightgreen?style=flat-square)](https://dacon.io/members/글초보은)
+[![Dacon Tier](https://img.shields.io/badge/Dacon%20Tier-Beginner-brightgreen?style=flat-square)](https://dacon.io/members/498560)
 
 
 
